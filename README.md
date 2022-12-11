@@ -18,5 +18,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rephrase1905&" alt="rephrase1905" /></p>
 
-<a href="https://fsharp.org/" targer="_blank" rel="noreferrer" <img
-src="https://img.stackshare.io/service/2155/yRNL7yTW.png"  alt="fsharp" width="40" height="40"/>
