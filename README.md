@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikail Oruc</h1>
 <h3 align="center">I am currently studying at the University of Copenhagen</h3>
 
-- 🔭 I’m currently working on [Building Tetris in F# using the Canvas library]((link))
+- 🔭 I’m currently working on [Building Tetris in F# using the Canvas library]([(link)](https://github.com/Rephrase1905/PoP/tree/main/Assignments/10i))
 
 - 🌱 I’m currently learning **about the .NET 6.0 framework and started programming in F#**
 
